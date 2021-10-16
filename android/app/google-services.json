@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "28304532871",
+    "project_id": "practicaltest-77d1d",
+    "storage_bucket": "practicaltest-77d1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28304532871:android:35dd975810a85ec7169f22",
+        "android_client_info": {
+          "package_name": "com.practicaltest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28304532871-7ip1vqp8flin6egik58alh9d2a1856vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV_mTBKwKfWsZ0w3EakLviEy9w0BbNU_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28304532871-7ip1vqp8flin6egik58alh9d2a1856vv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "28304532871-7v28bdng22s3on0l8f1buomu2emishn9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.practicalTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

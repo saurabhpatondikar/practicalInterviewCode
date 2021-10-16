@@ -8,6 +8,7 @@ export default inputField = (props) => {
             placeholder={props.placeholder}
             onChangeText={(text) => { props.changeText(text) }}
             returnKeyType={'next'}
+            secureTextEntry={props.secureTextEntry ? props.secureTextEntry : false}
             keyboardType={props.keyboardType}
             value={props.value}
         />

@@ -1,11 +1,11 @@
 import { combineReducers } from 'redux';
 import addUser from './addUser';
-import getProductList from './getProductList';
+import userLog from './userLog';
 
 
 const AppReducer = combineReducers({
     addUser,
-    getProductList,
+    userLog,
 });
 
 export default AppReducer;
